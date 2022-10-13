@@ -2,12 +2,13 @@
 
 This is a simple flask skeleton for any app.<br>
 It has a simply basic structure to support the following items:<br>
-- Flask controller
+- Flask framework backbone
 - MySQL database connection
 - Configuration file via .yaml
 - Controlled logging
 - .env file for secure passwords handling
 - repository/entity structure
+- Global exception handling
 
 In order to run this app you'll need to:
 - Install the requirements with `pip install -r requirements.txt`
